@@ -1,3 +1,7 @@
-.logo {
+.boxed {
     border: 1px solid teal;
+    background-color: teal;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic
 }
