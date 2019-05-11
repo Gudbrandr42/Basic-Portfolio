@@ -1,3 +1,11 @@
+h1 {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;  
