@@ -8,21 +8,35 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <form action="action_page.php">
-      
-          <label for="Name">Mark Bullard</label>
-          <input type="text" id="Name" name="Mark Bullard" placeholder="Your name..">
-      
-          <label for="Email">Email</label>
-          <input type="text" id="Email" name="Email" placeholder="Your Email">
-      
-          <label for="Message">Message</label>
-          <textarea id="Message" name="Message" placeholder="Write something.." style="height:200px"></textarea>
-      
-          <input type="submit" value="Submit">
-      
-        </form>
+  <header>
+    <div id="logoBox">
+      <div>
+        <h1>Mark Bullard</h1>  
       </div>
+    </div>
+    <div id="nav">
+      <a href="index.html">About</a> |
+      <a href="portfolio.html">portfolio</a> |
+      <a href="contact.html">contact</a> |
+    </div>
+  </header> 
+  <div class="container">
+    <form action="action_page.php">
+    
+      <label for="Name">Name</label>
+      <input type="text" id="Name" name="Mark Bullard" placeholder="Your name..">
+    
+      <label for="Email">Email</label>
+      <input type="text" id="Email" name="Email" placeholder="Your Email">
+    
+      <label for="Message">Message</label>
+      <textarea id="Message" name="Message" placeholder="Write something.." style="height:200px"></textarea>
+  
+      <input type="submit" value="Submit">
+    </form>
+  </div>
+  <footer>
+    <span id="copyright">copyright &copy;</span>
+  </footer>
 </body>
 </html>
