@@ -5,11 +5,15 @@ header{
   border-bottom: #cccccc;
 }
 
-#logoBox {
+/* #logoBox {
   width: 280px;
   margin-top: 30px;
   text-align: center;
 }
+
+#logoBox, a {
+  display: inline;
+} */
 
 h1 {
   background-color: #4aaaa5;
@@ -18,7 +22,9 @@ h1 {
   padding: 0px;
   bottom: 0;
   margin: 0;
+  display: inline;
 }
+
 
 #nav {
   float: right;
