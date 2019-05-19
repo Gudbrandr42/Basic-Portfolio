@@ -3,7 +3,8 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("assets\images\memphis-mini.png");
+  background: url("C:/Users/drgnb/Desktop/Homework/Week2/Responsive-Portfolio/assets/images/memphisMini.png")
+    repeat;
 }
 
 * {
