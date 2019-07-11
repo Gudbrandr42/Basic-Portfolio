@@ -2,7 +2,7 @@ body {
   font-family: Arial, "Helvetica Neuve", Helvetica, sans-serif;
   font-size: 18px;
   line-height: 34px;
-  color: #777777;
+  color: black;
   background: url("C:/Users/drgnb/Desktop/Homework/Week2/Responsive-Portfolio/assets/images/memphisMini.png")
     repeat;
 }
@@ -34,7 +34,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: black;
 }
 
 h1 {
@@ -155,8 +155,7 @@ a:active {
 .work {
   position: relative;
   float: left;
-  width: 150px;
-  height: 150px;
+  width: 200px;
   margin: 20px 0 25px;
   overflow: auto;
 }
@@ -166,7 +165,7 @@ a:active {
 }
 
 .work img {
-  width: 95%;
+  width: 100%;
   border: 0 none;
   opacity: 0.8;
 }
@@ -188,7 +187,7 @@ a:active {
 .auth-image {
   float: left;
   width: 200px;
-  height: auto;
+  height: 200px;
   margin-top: 10px;
   margin-right: 25px;
 }
