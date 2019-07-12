@@ -69,12 +69,12 @@ h3 {
   font-size: 30px;
   font-weight: 700;
   line-height: 90px;
-  color: #ffffff;
+  color: white;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: white;
   text-align: center;
   text-decoration: none;
-  background: gainsboro;
+  background: lightsteelblue;
 }
 
 nav {
@@ -234,11 +234,11 @@ textarea {
 input[type="submit"] {
   padding: 10px 30px;
   font-size: 18px;
-  color: #ffffff;
+  color: white;
   cursor: pointer;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: white;
-  background: gainsboro;
+  background: lightsteelblue;
   border: 0 none;
 }
 
