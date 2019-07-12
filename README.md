@@ -19,3 +19,5 @@ https://gudbrandr42.github.io/Basic-Portfolio/
 * Detective Image by <a href="https://pixabay.com/users/GraphicMama-team-2641041/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1424831">GraphicMama-team</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1424831">Pixabay</a>
 
 * Subway Image by <a href="https://pixabay.com/users/igorovsyannykov-6222956/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2893846">Igor Ovsyannykov</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2893846">Pixabay</a>
+
+* Giphy Logo from Giphy @ https://giphy.com/
