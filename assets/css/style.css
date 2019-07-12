@@ -184,6 +184,10 @@ a:active {
   border-bottom: 0;
 }
 
+h3 {
+  width: 200px;
+}
+
 .auth-image {
   float: left;
   width: 200px;
