@@ -154,7 +154,7 @@ a:active {
 .work {
   position: relative;
   float: left;
-  width: 200px;
+  width: 274px;
   margin: 20px 0 25px;
   overflow: auto;
 }
@@ -164,7 +164,8 @@ a:active {
 }
 
 .work img {
-  width: 100%;
+  width: 200px;
+  height: 200px;
   border: 0 none;
   opacity: 0.8;
 }
