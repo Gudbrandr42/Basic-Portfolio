@@ -72,7 +72,7 @@ h3 {
   color: #ffffff;
   text-align: center;
   text-decoration: none;
-  background: navy blue;
+  background: navy;
 }
 
 nav {
@@ -104,7 +104,7 @@ footer {
   color: #cccccc;
   text-align: center;
   background: #666666;
-  border-top: 8px solid navy blue;
+  border-top: 8px solid navy;
   height: 50px;
 }
 
@@ -179,8 +179,10 @@ a:active {
   font-weight: 300;
   line-height: 30px;
   color: #ffffff;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
   text-align: center;
-  background: navy blue;
+  background: inherited;
   border-bottom: 0;
 }
 
