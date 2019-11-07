@@ -1,5 +1,5 @@
 {
-  "name": "Basic-Portfolio",
+  "name": "basicportfolio",
   "version": "1.0.0",
   "description": "Bio, Contact Info, Portfolio",
   "main": "sever.js",
@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Gudbrandr42/Basic-Portfolio#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemailer": "^6.3.1"
   }
 }
