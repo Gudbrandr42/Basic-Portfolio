@@ -1,0 +1,23 @@
+{
+  "name": "Basic-Portfolio",
+  "version": "1.0.0",
+  "description": "Bio, Contact Info, Portfolio",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gudbrandr42/Basic-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gudbrandr42/Basic-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Gudbrandr42/Basic-Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
