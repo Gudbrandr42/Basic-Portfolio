@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Gudbrandr42/Basic-Portfolio#readme",
   "dependencies": {
+    "emailjs-com": "^2.6.4",
     "express": "^4.17.1",
     "nodemailer": "^6.4.17"
   }
