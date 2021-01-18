@@ -1,4 +1,6 @@
-var contactAddress = "mark.bullard42@gmail.com";
+var frmvalidator = new Validator("contactform");
+
+/*var contactAddress = "mark.bullard42@gmail.com";
 var queryString = require("querystring"); // provides utilities for parsing and formatting URL query strings
 
 // helps send the email for the user upon clicking submit
@@ -25,4 +27,4 @@ module.exports.contact = (event, context, callback) => {
       callback(null, { statusCode: 200, body: "Success!" });
     }
   );
-};
+};*/
