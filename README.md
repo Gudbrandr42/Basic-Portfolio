@@ -4,11 +4,11 @@ Bio, Contact Info, Portfolio
 
 ## Github
 
-https://github.com/Gudbrandr42/Basic-Portfolio
+https://github.com/MarkBCodes/Basic-Portfolio
 
 ## Website
 
-https://gudbrandr42.github.io/Basic-Portfolio/
+https://MarkBCodes.github.io/Basic-Portfolio/
 
 ## Design
 
